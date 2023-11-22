@@ -1,0 +1,226 @@
+body{
+    margin: 0;
+    width: 100% ;
+    max-width: 100% ;
+}
+body {
+    overflow-x: hidden; /* This will hide the horizontal scrollbar if content overflows */
+}
+    .header{
+    background-color: white;
+    width: 100%;
+    height: 34px;
+    display: flex;
+    padding-left: 109px;
+    position: fixed ;
+    top: 0;
+
+}
+
+.header img {
+    margin-left: 20px;
+    height: 17px;
+    margin-top: 10px;
+}
+.header h4 {
+    font-size: 15px;
+    margin-left: 985px;
+    margin-top: 8px;
+    color: #4d4d4d;
+}
+.NavBar{
+    width: 100%;
+     height: 60px;
+     background-color: white;
+     position: fixed;
+     top: 34px;
+     color: #4d4d4d;
+}
+.NavBar hr{
+    margin-top: -6px;
+   
+}
+.lintOfTypes{
+    list-style-type: none;
+    display: flex;
+    margin-left: 200px;
+    margin-top: -40px;
+    font-size: 15px;
+    cursor: default;
+    
+}
+.NavBar li{
+    padding-left: 40px;
+}
+#logo {
+    margin-left: 107px;
+    margin-top: 7px;
+    height: 40px;
+}
+#search img {
+    height: 18px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+ .mainBOdy{
+    width: 100%;
+    height: 1000px;
+  
+} 
+.LearnMore {
+    width: 100%;
+    height: 45px;
+    background-color: #f5f5f5;
+    margin-top: 84px;
+    
+}
+.mainBOdy img{
+    width: 100%;
+    height: 700px;
+}
+#caps {
+    text-align: center;
+    size: 65px;
+    margin-top: -35px;
+}
+.previewimg img {
+    width: 731px;
+    height: 590px;
+    padding: 9px;
+}
+.previewDiv {
+    margin-left: 4px;
+    margin-top: 414px;
+    width: 100%;
+}
+.Events{
+    width: 100%;
+    height: 100px;
+    font-size: 20px;
+    text-align: center;
+    font-family:normal;
+    
+}
+.Eventimgs{
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.Eventimg1{
+    background-color: #f5f5f5;
+    width: 370px;
+    height: 290px;
+}
+.Eventimg1 img{
+    width: 370px;
+    height: 220px;
+}
+.Eventimg2{
+    background-color: #f5f5f5;
+    width: 370px;
+    height: 290px;
+}
+.Eventimg2 img{
+    width: 370px;
+    height: 220px;
+}
+.Eventimg3{
+    background-color: #f5f5f5;
+    width: 370px;
+    height: 290px;
+}
+.Eventimg3 img{
+    width: 370px;
+    height: 220px;
+}
+.navfrst{
+    width: 100%;
+    height: 828px;
+    background-color: #f5f5f5;
+    color: #4d4d4d;
+}
+.navfrst ul{
+    display: flex;
+    list-style-type: none;
+    margin: 50px;
+}
+
+#contact img {
+    margin-left: 70px;
+    margin-top: 50px;
+}
+#contact h5{
+    margin-left: 110px;
+    margin-top: -30px;
+    font-size: 15px;
+}
+#contact p{
+    margin-left: 110px;
+    margin-top: -20px;
+    font-size: 14px;
+}
+.footerpic {
+     width: 100%;
+     height: 700px;
+     margin-left: 150px;
+     display: flex;
+     color: #4d4d4d;
+}
+.footerpic ul{
+    /* width: 1200px;
+    height: 600px; */
+    display: list-item;
+    margin-top: 20px;
+    margin-left: -35px;
+    
+}
+.footerpic li{
+    margin-top: 14px;
+    font-size: 0.880rem;
+}
+.last{
+    size: 10px;
+    height: 50px;
+    width: 100%;
+    background-color: #f5f5f5;
+    margin-left: 120px;
+   color: #666666;
+}
+.last p{
+    margin-left: 30px;
+    margin-top: 40px ;
+    display: inline;
+    font-size: 12px;
+}
+.lang{
+    width: 100%;
+    margin-left: 1100px;
+    margin-top: -17px;
+}
+.lang p,img{
+    
+    display: inline;
+}
+hr{
+    margin-top: -36px;
+    background-color: #666666;
+}
+.header p {
+    margin-top: 7px;
+    margin-left: 10px;
+    font-size: 17px;
+    color: #666666;
+}
+.footericon img{
+     height: 35px;
+     margin-left: 20px;
+     cursor: pointer;
+}
+
+.footericon{
+margin-top: -125px;
+text-align: center;
+width: 100%;
+height: 100px;
+}
